@@ -1,7 +1,7 @@
 # Supply Chain Operations & Inventory Control Tower
 
 A Power BI dashboard for supply chain analysis. It shows delivery performance, order fulfillment, inventory health, and supplier quality for Jan–Mar 2026.
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 > **Important:** All data in this project is **simulated**. The numbers do not come from a real company.
 
